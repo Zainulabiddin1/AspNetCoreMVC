@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MyBookStoreApplication/.vs/MyBookStoreApplication
+/MyBookStoreApplication/MyBookStoreApplication/bin/Debug/net6.0
+/MyBookStoreApplication/MyBookStoreApplication/obj
